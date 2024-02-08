@@ -1,2 +1,1 @@
-# skibidii
-fu
+gh repo clone InterstellarNetwork/Interstellar
